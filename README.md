@@ -1,2 +1,3 @@
 # VeA_KiCAD_prj
 Iespiedplashu projekteshana
+Repozitorijs kursa projektiem
